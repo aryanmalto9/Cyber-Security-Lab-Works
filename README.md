@@ -1,7 +1,6 @@
-CYBERSECURITY LEARNING PATH — 28 LABS
+CYBERSECURITY Lab Works — 28 LABS
 
-Open "00 - Cybersecurity Learning Path Guide.docx" first, then complete the numbered DOCX files in order.
-The folder names identify the four learning stages. New numbers are learning-path numbers; [original XX] preserves the prior converted-file number.
+The folder names identify the four learning stages. New numbers are learning-path numbers.
 
 01 - Foundations and Professional Practice
 Build a security mindset, understand core principles, and establish the legal and professional boundaries for security work.
