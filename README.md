@@ -39,6 +39,7 @@ Use public information and supplied lab evidence to understand how exposure and 
 
 04 - Monitoring, Security Controls, and Mitigation
 Move from identifying risks to applying and recommending defensive controls.
+
   24. Access Control List Demonstration — 24 - Access Control List Demonstration [original 10].docx
   25. Configure Security Features in Windows and Linux — 25 - Configure Security Features in Windows and Linux [original 12].docx
   26. Harden a Linux System — 26 - Harden a Linux System [original 17].docx
