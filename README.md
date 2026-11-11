@@ -15,6 +15,7 @@ Build a security mindset, understand core principles, and establish the legal an
 
 02 - Lab Environment and Technical Fundamentals
 Prepare the lab environment and learn the host, operating-system, and network concepts used by later exercises.
+
   08. Install a Virtual Machine on a Personal Computer — 08 - Install a Virtual Machine on a Personal Computer [original 18].docx
   09. Linux Servers — 09 - Linux Servers [original 19].docx
   10. Navigating the Linux Filesystem and Permission Settings — 10 - Navigating the Linux Filesystem and Permission Settings [original 21].docx
@@ -26,6 +27,7 @@ Prepare the lab environment and learn the host, operating-system, and network co
 
 03 - Reconnaissance and Attack Analysis
 Use public information and supplied lab evidence to understand how exposure and common attack patterns are identified.
+
   16. Using OSINT Tools — 16 - Using OSINT Tools [original 06].docx
   17. Finding Out About the Organization — 17 - Finding Out About the Organization [original 09].docx
   18. Employee Intelligence Gathering — 18 - Employee Intelligence Gathering [original 07].docx
